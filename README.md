@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Student Results Management System(SRMS)
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on innovative projects
 - 🤔 I’m looking for help with ...
