@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 💯 Fun fact: I love challenges!
 
 #### Statistics
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Finley&theme=blue-green&bg_color=24292e&text_color=efefef&title_color=73C67C" height="200"/> <img src="https://github-readme-stats.vercel.app/api?username=Mark-Finley&show_icons=true&bg_color=24292e&text_color=efefef&title_color=73C67C&icon_color=73C67C" height="200"/>
 
 ![Java](https://img.shields.io/badge/-Java-DC493A?style=flat&logo=java&logoColor=white&link=https://github.com/Mark-Finley)
@@ -35,4 +34,5 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E1BC29?style=flat&logo=javascript&logoColor=white&link=https://github.com/Mark-Finley)
 ![Python](https://img.shields.io/badge/-Python-FDCA40?style=flat&logo=python&logoColor=white&link=https://github.com/Mark-Finley)
 ![C#](https://img.shields.io/badge/-C%23-DC493A?style=flat&logo=csharp&logoColor=white&link=https://github.com/Mark-Finley)
+![PHP](https://img.shields.io/badge/PHP-DC2ABD?style=flat&logo=PHP&logoColor=white&link=https://github.com/Mark-Finley)
 ![NASM](https://img.shields.io/badge/-NASM-503D3F?style=flat&logo=nasm&logoColor=white&link=https://github.com/Mark-Finley)
