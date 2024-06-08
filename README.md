@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-3B65CE?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/Mark-Finley)
 ![Bash](https://img.shields.io/badge/-Bash/ZSH-178C54?style=flat&logo=bash&logoColor=bash&link=https://github.com/Mark-Finley)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E1BC29?style=flat&logo=javascript&logoColor=white&link=https://github.com/Mark-Finley)
-![Python](https://img.shields.io/badge/-Python-FDCA40?style=flat&logo=python&logoColor=white&link=https://github.com/Mark-Finley)<br/>
+![Python](https://img.shields.io/badge/-Python-FDCA40?style=flat&logo=python&logoColor=white&link=https://github.com/Mark-Finley)
 ![C#](https://img.shields.io/badge/-C%23-DC493A?style=flat&logo=csharp&logoColor=white&link=https://github.com/Mark-Finley)
 ![NASM](https://img.shields.io/badge/-NASM-503D3F?style=flat&logo=nasm&logoColor=white&link=https://github.com/Mark-Finley)
