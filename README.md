@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Hello there, I'm MarkFinley! 👋
 
-- 🔭 I’m currently working on own programming language for educational purposes.
+- 🔭 I’m currently working on Edtech dApps for educational purposes.
 - 🌱 I’m currently learning a lot of things!
 - 📜 I'm currently studying "Computer Science"
 - 💫 I started programming in 2021
